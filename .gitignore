@@ -1,4 +1,6 @@
 .vscode
 data
+results
 *.ini
 *.json
+*.txt
