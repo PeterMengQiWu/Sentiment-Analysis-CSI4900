@@ -1,6 +1,10 @@
 .vscode
 data
 results
+figs
+lexicons
+Reddit Data.ipynb
+*.zip
 *.ini
 *.json
 *.txt
